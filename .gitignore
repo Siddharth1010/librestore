@@ -1,5 +1,6 @@
 # Remove example from client.
 e.xlsx
+e.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
